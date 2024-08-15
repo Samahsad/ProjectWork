@@ -1,0 +1,2 @@
+new line in a.txt file
+second line in a.txt file
